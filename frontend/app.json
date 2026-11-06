@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "HB+ Workspace",
+    "slug": "hbplus-access",
+    "scheme": "hbplus",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "bundleIdentifier": "fit.hbplus.access"
+    },
+    "android": {
+      "package": "fit.hbplus.access"
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "single"
+    }
+  }
+}
